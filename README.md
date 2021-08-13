@@ -1,2 +1,3 @@
-# Shockwave
-A framework for Discord bots; final name pending
+# Archon
+A framework for Discord bots.
+Created by Taylor Whitlock
